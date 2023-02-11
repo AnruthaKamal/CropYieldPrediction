@@ -16,11 +16,11 @@ The purpose of this project is to develop a machine learning-based application t
 >Run the script: python main.py<br>
 
 ## File Structure
-├── data
-│   └── crops.csv
-├── main.py
-├── README.md
-└── requirements.txt
+├── data<br>
+│  <br> └── crops.csv<br>
+├── main.py<br>
+├── README.md<br>
+└── requirements.txt<br>
 
 ## Data
 The data used in this project is stored in the data folder in a CSV file called crops.csv. The file contains various attributes related to crop yields, such as weather conditions and soil quality, as well as the corresponding yields.
