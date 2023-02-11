@@ -1,6 +1,6 @@
 # Crop Yield Prediction
 A machine learning-based application for predicting crop yield.
-![plot]([./about-img.png](https://github.com/AnruthaKamal/CropYieldPrediction/blob/main/about_img.png))
+![image](https://user-images.githubusercontent.com/107014168/218248638-b06c7df8-ae23-44da-a305-b5b09f140327.png)
 ## Overview
 The purpose of this project is to develop a machine learning-based application that can accurately predict crop yield based on various factors such as weather conditions, soil quality, and farming practices. The model will be trained on historical data and then used to make predictions for future crops.
 
@@ -9,6 +9,9 @@ The purpose of this project is to develop a machine learning-based application t
 - scikit-learn
 - pandas
 - numpy
+
+## Deployment
+> Checkout the Live Application: https://anruthakamal-cropyieldprediction-webapp-yhk8a1.streamlit.app/
 ## Usage
 >Clone the repository: git clone https://github.com/AnruthaKamal/CropYieldPrediction.git <br>
 >Install the required packages: pip install -r requirements.txt<br>
