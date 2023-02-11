@@ -1,7 +1,6 @@
-Crop Yield Prediction
 # Crop Yield Prediction
 A machine learning-based application for predicting crop yield.
-
+![plot](./about-img.png)
 ## Overview
 The purpose of this project is to develop a machine learning-based application that can accurately predict crop yield based on various factors such as weather conditions, soil quality, and farming practices. The model will be trained on historical data and then used to make predictions for future crops.
 
